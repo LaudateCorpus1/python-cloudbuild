@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-build/#history
 
+## [3.8.0](https://github.com/googleapis/python-cloudbuild/compare/v3.7.1...v3.8.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#222](https://github.com/googleapis/python-cloudbuild/issues/222)) ([9c62e7e](https://github.com/googleapis/python-cloudbuild/commit/9c62e7e60b57ac213e98d6df05f9d9a748134f57))
+
 ### [3.7.1](https://www.github.com/googleapis/python-cloudbuild/compare/v3.7.0...v3.7.1) (2021-11-05)
 
 
